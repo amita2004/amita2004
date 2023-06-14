@@ -1,4 +1,4 @@
-```
+```ruby
 import org.get.to.know.me;
 
 public class Amita {
